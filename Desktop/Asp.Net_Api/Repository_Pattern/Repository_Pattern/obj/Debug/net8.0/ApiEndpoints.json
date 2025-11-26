@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "Repository_Pattern.Controllers.AuthorsController",
+    "Method": "GetById",
+    "RelativePath": "api/Authors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.AuthorsController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Authors/GetByIdAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "GetById",
+    "RelativePath": "api/Books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "AddOne",
+    "RelativePath": "api/Books/AddOne",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "AddRange",
+    "RelativePath": "api/Books/AddRange",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "GetAll",
+    "RelativePath": "api/Books/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "GetAllSkipTake",
+    "RelativePath": "api/Books/GetAllSkipTake",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "GetAllWithAuthors",
+    "RelativePath": "api/Books/GetAllWithAuthors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "GetByTitle",
+    "RelativePath": "api/Books/GetByTitle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_Pattern.Controllers.BooksController",
+    "Method": "GetWithOrdering",
+    "RelativePath": "api/Books/GetOrder",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

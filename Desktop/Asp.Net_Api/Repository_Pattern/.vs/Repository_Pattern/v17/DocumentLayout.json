@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEAA5B3-C0D5-4C9B-87E7-C88084F58247}|Repository_Pattern.Core\\Repository_Pattern.Core.csproj|c:\\users\\hp\\desktop\\asp.net_api\\repository_pattern\\repository_pattern.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEAA5B3-C0D5-4C9B-87E7-C88084F58247}|Repository_Pattern.Core\\Repository_Pattern.Core.csproj|solutionrelative:repository_pattern.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16800F1-5842-400D-BBC9-399B41F7E8E0}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\desktop\\asp.net_api\\repository_pattern\\repository_pattern\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16800F1-5842-400D-BBC9-399B41F7E8E0}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16800F1-5842-400D-BBC9-399B41F7E8E0}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\desktop\\asp.net_api\\repository_pattern\\repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16800F1-5842-400D-BBC9-399B41F7E8E0}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9926C6A2-423D-4BEC-9ADD-7CEA62898263}|Repository_Pattern.EF\\Repository_Pattern.EF.csproj|c:\\users\\hp\\desktop\\asp.net_api\\repository_pattern\\repository_pattern.ef\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9926C6A2-423D-4BEC-9ADD-7CEA62898263}|Repository_Pattern.EF\\Repository_Pattern.EF.csproj|solutionrelative:repository_pattern.ef\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9926C6A2-423D-4BEC-9ADD-7CEA62898263}|Repository_Pattern.EF\\Repository_Pattern.EF.csproj|c:\\users\\hp\\desktop\\asp.net_api\\repository_pattern\\repository_pattern.ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9926C6A2-423D-4BEC-9ADD-7CEA62898263}|Repository_Pattern.EF\\Repository_Pattern.EF.csproj|solutionrelative:repository_pattern.ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEAA5B3-C0D5-4C9B-87E7-C88084F58247}|Repository_Pattern.Core\\Repository_Pattern.Core.csproj|c:\\users\\hp\\desktop\\asp.net_api\\repository_pattern\\repository_pattern.core\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEAA5B3-C0D5-4C9B-87E7-C88084F58247}|Repository_Pattern.Core\\Repository_Pattern.Core.csproj|solutionrelative:repository_pattern.core\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1898,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern\\Program.cs",
+              "RelativeToolTip": "Repository_Pattern\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:17:33.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Repository_Pattern\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:46:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.EF\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern.EF\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.EF\\UnitOfWork.cs",
+              "RelativeToolTip": "Repository_Pattern.EF\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:45:24.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern.Core\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repository_Pattern.Core\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:44:54.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.EF\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern.EF\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.EF\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "Repository_Pattern.EF\\Repositories\\BooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:41:57.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.Core\\Interfaces\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern.Core\\Interfaces\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\Repository_Pattern\\Repository_Pattern.Core\\Interfaces\\IBooksRepository.cs",
+              "RelativeToolTip": "Repository_Pattern.Core\\Interfaces\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:40:19.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

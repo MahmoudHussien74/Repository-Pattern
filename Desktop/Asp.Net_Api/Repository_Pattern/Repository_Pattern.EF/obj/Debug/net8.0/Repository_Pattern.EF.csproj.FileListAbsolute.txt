@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\bin\Debug\net8.0\Repository_Pattern.EF.deps.json
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\bin\Debug\net8.0\Repository_Pattern.EF.runtimeconfig.json
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\bin\Debug\net8.0\Repository_Pattern.EF.dll
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\bin\Debug\net8.0\Repository_Pattern.EF.pdb
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\bin\Debug\net8.0\Repository_Pattern.Core.dll
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\bin\Debug\net8.0\Repository_Pattern.Core.pdb
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.AssemblyInfo.cs
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Reposito.49E82C91.Up2Date
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.dll
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\refint\Repository_Pattern.EF.dll
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.pdb
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\Repository_Pattern.EF.genruntimeconfig.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.EF\obj\Debug\net8.0\ref\Repository_Pattern.EF.dll

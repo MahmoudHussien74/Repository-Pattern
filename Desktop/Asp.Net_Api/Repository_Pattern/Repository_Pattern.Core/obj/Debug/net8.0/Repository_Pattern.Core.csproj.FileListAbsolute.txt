@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\bin\Debug\net8.0\Repository_Pattern.Core.deps.json
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\bin\Debug\net8.0\Repository_Pattern.Core.runtimeconfig.json
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\bin\Debug\net8.0\Repository_Pattern.Core.dll
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\bin\Debug\net8.0\Repository_Pattern.Core.pdb
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.dll
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\refint\Repository_Pattern.Core.dll
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.pdb
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\Repository_Pattern.Core.genruntimeconfig.cache
+C:\Users\HP\Desktop\Asp.Net_Api\Repository_Pattern\Repository_Pattern.Core\obj\Debug\net8.0\ref\Repository_Pattern.Core.dll
